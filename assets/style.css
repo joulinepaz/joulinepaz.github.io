@@ -32,7 +32,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .topbar {background:url(../images/lines.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}
 .navbar-nav > li > a{font-size: 1em;line-height: 3.6em;}
 .navbar-fixed-top{top: 5px;}
-.navbar-inverse{background-color: #fff; opacity: 0.8;}
+.navbar-inverse{background: #111;}
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background: none;color: #F5B7B1;}
 
 #head,.carousel{margin-top: 0;}

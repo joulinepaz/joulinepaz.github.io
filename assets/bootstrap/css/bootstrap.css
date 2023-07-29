@@ -4844,7 +4844,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-toggle {
-  border-color: #e80909;
+  border-color: #333333;
 }
 
 .navbar-inverse .navbar-toggle:hover,
